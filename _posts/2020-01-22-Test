@@ -2,7 +2,7 @@
 layout: post
 title:  "Test"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ Jekyll, Ski ]
 image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
 tags: [summer]
 ---
@@ -18,11 +18,3 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 이 글의 제목은 {{ page.title }}이고
 마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
 
-
-<script src="https://utteranc.es/client.js"
-        repo="run262/blog-comments"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
