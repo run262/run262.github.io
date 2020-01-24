@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[일본] 도호쿠(東北) 지역 스키장 - 교통수단"
+title:  "[Japan] Tohoku(東北) Ski Resorts - Transportation"
 categories: [Ski]
 tag: [Ski Trip]
 image: assets/images/20200121/05.jpg
