@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[Japan] Tohoku(東北) Ski Resorts - Transportation"
-categories: [Ski]
-tag: [Ski Trip]
+categories: [ski,transportaion,trip]
+tags: [sticky,featured]
 image: assets/images/20200121/05.jpg
 ---
 
