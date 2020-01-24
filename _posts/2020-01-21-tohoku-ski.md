@@ -70,7 +70,7 @@ image: assets/images/20200121/05.jpg
 이렇게 다니고도 패스는 전체 5개 중 도장이 4개만 찍혔네요. 
 여러가지 스키장 할인권, 저가 팬션이용 등 각종 신공(?) 들을 동원하면 생각보다 적은 비용으로 해외투어가 가능합니다.
 
-홀로 해외스키를 가고 싶으신 분들을 위한 작은 정보가 되었으면 좋겠습니다.
+홀로 해외 스키를 가고 싶으신 분들을 위한 작은 정보가 되었으면 좋겠습니다.
 
 
 [tohoku]: https://livejapan.com/ko/in-tohoku/in-pref-niigata/in-joetsu_uonuma_yuzawa/article-a3000027/
