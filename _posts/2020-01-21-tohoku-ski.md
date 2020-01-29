@@ -6,6 +6,8 @@ tags: [ski,featured, Japan, sticky]
 image: assets/images/20200121/05.jpg
 ---
 
+2020.1
+
 본 도호쿠 지역의 야마가타, 이와테, 아오모리, 아키타 등에는 눈이 많이 오고 온천이 좋은 스키장이 많습니다.
 
 [도호쿠 스키장 소개][tohoku]
