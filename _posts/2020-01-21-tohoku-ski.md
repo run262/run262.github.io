@@ -2,7 +2,7 @@
 layout: post
 title:  "Tohoku(東北) Ski Resorts - Transportation"
 categories: [ski]
-tags: [ski,featured, Japan, Tohoku, sticky]
+tags: [ski,featured, Japan, Tohoku]
 image: assets/images/20200121/05.jpg
 ---
 
