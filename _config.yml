@@ -49,7 +49,7 @@ defaults:
       layout: page
       
 # Syntax
-markdown: kramdown
+markdown: GMF
 highlighter: rouge
 
 # Paginate
