@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "Snow Shoes"
+categories: [ski]
+tags: [ski, equipment, featured, sticky]
+image: assets/images/20220206/goryu_03_01.jpeg
+vimeoId1: 674657103
+---
+
+2022.2
+
+<br>
+
+>Backcountry
+
+백컨트리 캠프 참가 제안이 와서 급히 하쿠바로 이동합니다.
+
+숙소는 연말에 발견한 핫포 버스터미널 부근으로 갑니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_02.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_03.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_04.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_05.jpeg)
+
+버스 터미널에 도착하니 눈이 많이 내리는군요.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_06.jpeg)
+
+셔틀버스를 기다리면서 편의점에 가니 한국 소주들이 널려 있습니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_07.jpeg)
+
+셔틀버스 정류소.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_08.jpeg)
+
+고류 도착
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_09.jpeg)
+
+오늘 날씨가 무시무시합니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_10.jpeg)
+
+산 정상은 구름에 덮여있습니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_11.jpeg)
+
+곤돌라 정상의 360 레스토랑으로 이동.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_12.jpeg)
+
+미팅을 기다리면서 카푸치노를 한 잔 마셔봅니다.
+
+백컨트리 일행이 선물로 준 헬멧 장식.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_13.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_14.jpeg)
+
+비콘 등 장비를 점검합니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_15.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_16.jpeg)
+
+첫날은 연두색 루트를 가고, 둘째날은 파란색 루트를 타려는 예정이었습니다만...
+
+둘쨋날 폭설로 눈사태의 위험이 있어, 다시 연두색 루트로...
+
+파란색 루트에는 25도 경사에 탁 트인 파우더가 1킬로 정도 이어진다고 합니다.
+
+많이 아쉽군요.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_17.jpeg)
+
+백컨트리 게이트는 처음으로 가봅니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_18.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_19.jpeg)
+
+비콘을 찍고 다들 입장.
+
+고류의 백컨트리는 패트롤이 전혀 없습니다. 본인의 책임하에 진입.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_20.jpeg)
+
+스키를 끝내고 늦은 점심..
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_21.jpeg)
+
+짧은 투어를 마치고 다시 복귀합니다.
+
+이번 시즌에 새로 생긴 무료 셔틀버스로 마쓰모토역(松本)으로 가봅니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_22.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_23.jpeg)
+
+마쓰모토에서는 아즈사라는 일반 열차로 신주쿠까지 갑니다.
+
+신칸센이 아니라 저렴합니다.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_24.jpeg)
+
+승차하면 본인의 좌석 위에 녹색 불이 켜집니다. 황색등은 곧 탑승할 예정이라는 표시입니다.
+
+코로나 시대에 좋은 아이디어 같네요.
+
+![]({{ site.baseurl }}/assets/images/20220206/goryu_03_25.jpeg)
+
+
+{% include vimeoPlayer.html id=page.vimeoId1 %}
+
