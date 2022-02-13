@@ -3,116 +3,62 @@ layout: post
 title:  "Snow Shoes"
 categories: [ski]
 tags: [ski, equipment, featured, sticky]
-image: assets/images/20220206/goryu_03_01.jpeg
-vimeoId1: 674657103
+image: assets/images/20220214/snowshoes_01_01.jpeg
 ---
 
 2022.2
 
-<br>
+지난번 아라이 리조트에서 장비 없이 리조트 뒷산을 오르느라 죽을 고생을 했습니다.
 
->Backcountry
+스노우 슈즈를 신은 보더들이나 클라이밍 스킨을 장착한 스키어들은 간단히 30분 만에 웃으면서 오르는 거리를, 2시간에 거쳐 네발로 기어서 올라갔습니다.
 
-백컨트리 캠프 참가 제안이 와서 급히 하쿠바로 이동합니다.
+요즘 일본 스키장은 백컨트리, 사이드컨트리 영역을 많이 개방하는 추세로 바뀌고 있습니다.
 
-숙소는 연말에 발견한 핫포 버스터미널 부근으로 갑니다.
+예전에는 위험성 때문에 금지하는 곳이 많았으나 세계적인 트렌드를 따라가는 것이겠지요.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_02.jpeg)
+이렇게 눈이 많이 내리는 나라의 스키장에서 그 아까운 눈 자원(?)을 낭비할 필요가 있겠습니까.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_03.jpeg)
+백컨트리를 하려면 테크(Tech), 프레임(Frame) 또는 하이브리드(Hybrid) 바인딩에 호환 부츠, 파우더 스키를 구매하고, 좋은 클라이밍 스킨(Climbing Skin)까지 구매하여 풀 AT(Alpine Touring) 시스템을 갖추는 것이 정석입니다.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_04.jpeg)
+그래도, 우리는 어쩌다 한번 눈이 좋고 등반 거리도 짧으면 스키장 뒷산이나 올라보는 리조트 스키어로서, 풀 AT 시스템을 갖추고 본격적으로 백컨트리에 뛰어들기에는 아직 무리라는 생각입니다.
+<del>언젠가는 그렇게 될지도..</del>
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_05.jpeg)
+그래서, 헝그리 정신과 실험 정신을 장착하여 온몸으로 테스트를 해보기로 합니다.
 
-버스 터미널에 도착하니 눈이 많이 내리는군요.
+FT 부츠 + 스노우 슈즈라는 하이브리드(?) 시스템입니다.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_06.jpeg)
+FT 부츠는 AT 부츠같이 워킹 모드는 없지만 그래도 워낙 부드러우니 짧은 거리 정도는 가능하지 않을까 생각해봅니다.
 
-셔틀버스를 기다리면서 편의점에 가니 한국 소주들이 널려 있습니다.
+실험이 실패하면 동계 등산이나 한번 해보겠습니다.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_07.jpeg)
+MSR Lightning Ascent 같이 유명한 모델들이 있으나 가격도 비싸고 대부분 저의 목적에는 오버 스펙입니다.
 
-셔틀버스 정류소.
+스키 백팩에 넣어 다닐 수 있는 가벼운 모델을 구글링 해보았습니다.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_08.jpeg)
+[Best Snowshoes of 2022][snowshes1]
 
-고류 도착
+일본 전역에는 모델을 불구하고 스노우 슈즈 재고가 거의 없더군요.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_09.jpeg)
+전부 눈산에만 다니나?
 
-오늘 날씨가 무시무시합니다.
+미국에서 직구하여 UPS 특급으로 배달시켜도 일본 현지 가격보다 많이 저렴합니다.
 
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_10.jpeg)
-
-산 정상은 구름에 덮여있습니다.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_11.jpeg)
-
-곤돌라 정상의 360 레스토랑으로 이동.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_12.jpeg)
-
-미팅을 기다리면서 카푸치노를 한 잔 마셔봅니다.
-
-백컨트리 일행이 선물로 준 헬멧 장식.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_13.jpeg)
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_14.jpeg)
-
-비콘 등 장비를 점검합니다.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_15.jpeg)
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_16.jpeg)
-
-첫날은 연두색 루트를 가고, 둘째날은 파란색 루트를 타려는 예정이었습니다만...
-
-둘쨋날 폭설로 눈사태의 위험이 있어, 다시 연두색 루트로...
-
-파란색 루트에는 25도 경사에 탁 트인 파우더가 1킬로 정도 이어진다고 합니다.
-
-많이 아쉽군요.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_17.jpeg)
-
-백컨트리 게이트는 처음으로 가봅니다.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_18.jpeg)
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_19.jpeg)
-
-비콘을 찍고 다들 입장.
-
-고류의 백컨트리는 패트롤이 전혀 없습니다. 본인의 책임하에 진입.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_20.jpeg)
-
-스키를 끝내고 늦은 점심..
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_21.jpeg)
-
-짧은 투어를 마치고 다시 복귀합니다.
-
-이번 시즌에 새로 생긴 무료 셔틀버스로 마쓰모토역(松本)으로 가봅니다.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_22.jpeg)
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_23.jpeg)
-
-마쓰모토에서는 아즈사라는 일반 열차로 신주쿠까지 갑니다.
-
-신칸센이 아니라 저렴합니다.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_24.jpeg)
-
-승차하면 본인의 좌석 위에 녹색 불이 켜집니다. 황색등은 곧 탑승할 예정이라는 표시입니다.
-
-코로나 시대에 좋은 아이디어 같네요.
-
-![]({{ site.baseurl }}/assets/images/20220206/goryu_03_25.jpeg)
+선택한 모델은 플라스틱 프레임에 가벼운 [Atlas Helium][snowshoes2] 시리즈입니다.
 
 
-{% include vimeoPlayer.html id=page.vimeoId1 %}
+23, 26, 30인치 모델이 있는데 가장 가벼운 23인치 모델을 구매.
 
+양쪽에 1.4kg 밖에 안 됩니다. 들어보니 생각보다 가볍습니다.
+일단 사이즈는 딱 맞습니다.
+파우더 시즌이 끝나기 전에 테스트를 해봐야겠습니다.
+
+
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_01.jpeg)
+
+
+
+
+
+[snowshoes1]: https://www.switchbacktravel.com/best-snowshoes
+
+[snowshoes2]: https://atlassnowshoe.com/en-us/helium-series
