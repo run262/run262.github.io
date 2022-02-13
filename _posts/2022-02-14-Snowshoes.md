@@ -49,12 +49,9 @@ MSR Lightning Ascent 같이 유명한 모델들이 있으나 가격도 비싸고
 23, 26, 30인치 모델이 있는데 가장 가벼운 23인치 모델을 구매.
 
 양쪽에 1.4kg 밖에 안 됩니다. 들어보니 생각보다 가볍습니다.
-일단 사이즈는 딱 맞습니다.
-파우더 시즌이 끝나기 전에 테스트를 해봐야겠습니다.
-
-
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_01.jpeg)
 
+일단 사이즈는 딱 맞습니다.
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_02.jpeg)
 
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_03.jpeg)
@@ -63,14 +60,17 @@ MSR Lightning Ascent 같이 유명한 모델들이 있으나 가격도 비싸고
 
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_05.jpeg)
 
+경사 등반시에는 아래 바를 올려서 사용.
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_06.jpeg)
 
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_07.jpeg)
 
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_08.jpeg)
 
+스트랩도 바인딩 결합부와 딱 맞습니다.
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_09.jpeg)
 
+파우더 시즌이 끝나기 전에 테스트를 해봐야겠습니다.
 
 [snowshoes1]: https://www.switchbacktravel.com/best-snowshoes
 
