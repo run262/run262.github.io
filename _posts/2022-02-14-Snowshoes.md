@@ -2,7 +2,7 @@
 layout: post
 title:  "Snow Shoes 1"
 categories: [ski]
-tags: [ski, equipment, featured, sticky]
+tags: [ski, equipment, featured]
 image: assets/images/20220214/snowshoes_01_00.jpeg
 ---
 
