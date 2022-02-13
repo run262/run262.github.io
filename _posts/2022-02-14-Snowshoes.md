@@ -3,7 +3,7 @@ layout: post
 title:  "Snow Shoes"
 categories: [ski]
 tags: [ski, equipment, featured, sticky]
-image: assets/images/20220214/snowshoes_01_01.jpeg
+image: assets/images/20220214/snowshoes_01_00.jpeg
 ---
 
 2022.2
@@ -55,8 +55,21 @@ MSR Lightning Ascent 같이 유명한 모델들이 있으나 가격도 비싸고
 
 ![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_01.jpeg)
 
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_02.jpeg)
 
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_03.jpeg)
 
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_04.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_05.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_06.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_07.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_08.jpeg)
+
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_09.jpeg)
 
 
 [snowshoes1]: https://www.switchbacktravel.com/best-snowshoes
