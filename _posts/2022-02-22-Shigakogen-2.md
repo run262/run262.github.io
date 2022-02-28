@@ -38,8 +38,8 @@ image: assets/images/20220222_1/shigakogen_02_00.jpg
 나가노역에서 오는 급행버스와 스키장 내의 셔틀버스는 [나가노덴 버스][naganoden1]에서 운행합니다..<br>
 셔틀버스는 무료입니다..<br>
 환승을 해야한다면 Yamanoeki(志賀高原山の駅)에서 하는것으로 보면 됩니다.
-![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_4.jpg)
-![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_5.jpg)
+![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_04.jpg)
+![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_05.jpg)
 
 [shiga1]: https://www.shigakogen-ski.or.jp
 [shiga2]: http://www.okushiga.jp/skiresort
