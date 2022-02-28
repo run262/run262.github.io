@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Snow Shoes 1"
+categories: [ski]
+tags: [ski, equipment, featured]
+image: assets/images/20220214/snowshoes_01_00.jpeg
+---
+2022.2
+
+지난번 아라이 리조트에서 장비 없이 리조트 뒷산을 오르느라 죽을 고생을 했습니다.<br>
+스노우 슈즈를 신은 보더들이나 클라이밍 스킨을 장착한 스키어들은 간단히 30분 만에 웃으면서 오르는 거리를, 2시간에 거쳐 네발로 기어서 올라갔습니다.<br>
+요즘 일본 스키장은 백컨트리, 사이드컨트리 영역을 많이 개방하는 추세로 바뀌고 있습니다.<br>
+예전에는 위험성 때문에 금지하는 곳이 많았으나 세계적인 트렌드를 따라가는 것이겠지요.<br>
+이렇게 눈이 많이 내리는 나라의 스키장에서 그 아까운 눈 자원(?)을 낭비할 필요가 있겠습니까.<br>
+백컨트리를 하려면 테크(Tech), 프레임(Frame) 또는 하이브리드(Hybrid) 바인딩에 호환 부츠, 파우더 스키를 구매하고, 좋은 클라이밍 스킨(Climbing Skin)까지 구매하여 풀 AT(Alpine Touring) 시스템을 갖추는 것이 정석입니다.<br>
+그래도, 우리는 어쩌다 한번 눈이 좋고 등반 거리도 짧으면 스키장 뒷산이나 올라보는 리조트 스키어로서, 풀 AT 시스템을 갖추고 본격적으로 백컨트리에 뛰어들기에는 아직 무리라는 생각입니다.<br>
+<del>언젠가는 그렇게 될지도..</del><br>
+그래서, 헝그리 정신과 실험 정신을 장착하여 온몸으로 테스트를 해보기로 합니다.<br>
+FT 부츠 + 스노우 슈즈라는 하이브리드(?) 시스템입니다.<br>
+FT 부츠는 AT 부츠같이 워킹 모드는 없지만 그래도 워낙 부드러우니 짧은 거리 정도는 가능하지 않을까 생각해봅니다.<br>
+실험이 실패하면 동계 등산이나 한번 해보겠습니다.<br>
+MSR Lightning Ascent 같이 유명한 모델들이 있으나 가격도 비싸고 대부분 저의 목적에는 오버 스펙입니다.<br>
+스키 백팩에 넣어 다닐 수 있는 가벼운 모델을 구글링 해보았습니다.
+ 
+[Best Snowshoes of 2022][snowshoes1] <br>
+일본 전역에는 모델을 불구하고 스노우 슈즈 재고가 거의 없더군요.<br>
+전부 눈산에만 다니나?<br>
+미국에서 직구하여 UPS 특급으로 배달시켜도 일본 현지 가격보다 많이 저렴합니다.
+
+선택한 모델은 플라스틱 프레임에 가벼운 [Atlas Helium][snowshoes2] 시리즈입니다. <br>
+23, 26, 30인치 모델이 있는데 가장 가벼운 23인치 모델을 구매.<br>
+양쪽에 1.4kg 밖에 안 됩니다. 들어보니 생각보다 가볍습니다.
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_01.jpeg)
+일단 사이즈는 딱 맞습니다.
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_02.jpeg)
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_03.jpeg)
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_04.jpeg)
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_05.jpeg)
+경사 등반시에는 아래 바를 올려서 사용.
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_06.jpeg)
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_07.jpeg)
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_08.jpeg)
+스트랩도 바인딩 결합부와 딱 맞습니다.
+![]({{ site.baseurl }}/assets/images/20220214/snowshoes_01_09.jpeg)
+파우더 시즌이 끝나기 전에 테스트를 해봐야겠습니다.
+
+[snowshoes1]: https://www.switchbacktravel.com/best-snowshoes
+
+[snowshoes2]: https://atlassnowshoe.com/en-us/helium-series
