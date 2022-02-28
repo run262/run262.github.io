@@ -28,7 +28,7 @@ vimeoId1: 682092508
 정상에 올라가니 양쪽 스키장을 오가는 스키어들이 많습니다.
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_07.jpg)
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_06.jpg)
-일반 슬로프인데도 눈이 무릎까지 잠기는 경험을 합니다.
+눈 폭풍 다음날이라 일반 슬로프인데도 눈이 무릎까지 잠기는 경험을 합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_08.jpg)
 스키를 타고 내려가면 무릎 위에 파우더가 날려서 몽환적인 분위기를 만들어 냅니다.
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_09.jpg)
