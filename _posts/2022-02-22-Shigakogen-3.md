@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shigakogen(志賀高原) 2 - Okushigakogen(奥志賀高原)"
+title:  "Shigakogen(志賀高原) 3 - Okushigakogen(奥志賀高原)"
 categories: [ski]
 tags: [ski, Japan, Nagano, featured]
 image: assets/images/20220222_2/shigakogen_03_00.jpg
