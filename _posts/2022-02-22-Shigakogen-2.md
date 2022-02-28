@@ -41,6 +41,13 @@ image: assets/images/20220222_1/shigakogen_02_00.jpg
 ![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_04.jpg)
 ![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_05.jpg)
 
+추가 정보:<br>
+시가고원의 위치정보입니다.<br>
+나가노시는 주변이 재팬알프스로 둘러쌓여 있어서, 유명한 스키장이 즐비합니다.<br>
+우리같은 스키인들에게는 부러운곳에 살고 있네요.
+![]({{ site.baseurl }}/assets/images/20220222_1/1.jpg)
+
+
 [shiga1]: https://www.shigakogen-ski.or.jp
 [shiga2]: http://www.okushiga.jp/skiresort
 [prince1]: https://www.princehotels.com/en/ski/shiga_kogen
