@@ -6,7 +6,7 @@ tags: [ski, Japan, Nagano, featured]
 image: assets/images/20220222_1/shigakogen_02_00.jpg
 vimeoId1: 682362646
 ---
-2022. 2
+2022.2
 
 
 

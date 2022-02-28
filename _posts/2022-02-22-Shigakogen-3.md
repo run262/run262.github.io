@@ -6,7 +6,8 @@ tags: [ski, Japan, Nagano, featured]
 image: assets/images/20220222_2/shigakogen_03_00.jpg
 vimeoId1: 682092508
 ---
-2022. 2
+
+2022.2
 
 밤새 많은 눈이 많이 내렸습니다. <br>
 오늘은 파우더가 좋은 [Okushigakogen(奥志賀高原)][shiga1]으로 갑니다.<br>

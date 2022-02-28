@@ -6,7 +6,7 @@ tags: [ski, Japan, Nagano, featured]
 image: assets/images/20220221/shigakogen_01_00.jpg
 vimeoId1: 679953330
 ---
-2022. 2.
+2022.2
 
 하쿠바 고류 백컨트리 트립을 만들었습니다. <br> 
 핫포 백컨트리 전문 가이드를 미리 섭외해서 모든 준비가 다 되었습니다만...<br>

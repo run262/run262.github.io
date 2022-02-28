@@ -5,7 +5,7 @@ categories: [ski]
 tags: [ski, Japan, Nagano, featured]
 image: assets/images/20220222_1/shigakogen_02_00.jpg
 ---
-2022. 2
+2022.2
 
 [시가코겐 스키장][shiga1]은 18개의 스키장 연합으로 이루어진 대규모 스키리조트 입니다.<br>
 아래의 지도에서 크게 보면 3구역(왼쪽, 중앙, 오른쪽), 또는 중앙 지역을 세분화하여 4구역 혹은 5구역으로 나누기도 합니다..<br>
