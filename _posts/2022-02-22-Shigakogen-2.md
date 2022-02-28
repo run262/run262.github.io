@@ -9,7 +9,7 @@ image: assets/images/20220222_1/shigakogen_02_00.jpg
 
 [시가코겐 스키장][shiga1]은 18개의 스키장 연합으로 이루어진 대규모 스키리조트 입니다.
 아래의 지도에서 크게 보면 3구역(왼쪽, 중앙, 오른쪽), 또는 중앙 지역을 세분화하여 4구역 혹은 5구역으로 나누기도 합니다.
-<del></del>시가코겐 스키장 전체를 볼 수 있는 최신 맵이 없어서 스키장에서 받아온 큰 종이지도를 잘라서 스캔해서 포토샵에서 노가다 짜집기를 했습니다.</del>
+<del>시가코겐 스키장 전체를 볼 수 있는 최신 맵이 없어서 스키장에서 받아온 큰 종이지도를 잘라서 스캔해서 포토샵에서 노가다 짜집기를 했습니다.</del>
 ![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_01.jpg)
 처음에 지도를 보니 방향이 많이 헷갈리더군요.
 구글 위성 지도를 보면 확실한 방향을 잡을 수 있습니다.
@@ -34,8 +34,8 @@ image: assets/images/20220222_1/shigakogen_02_00.jpg
 이 지역을 공식적으로 'Shiga Kogen Central Area' 라고 합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_3.jpg)
 
-나가노역에서 오는 급행버스와 스키장 내의 셔틀버스는 [나가노덴 버스][naganoden1] 운행합니다.
-셔틀버스는 무료로 운행하고 있습니다.
+나가노역에서 오는 급행버스와 스키장 내의 셔틀버스는 [나가노덴 버스][naganoden1]에서 운행합니다.
+셔틀버스는 무료입니다.
 환승을 해야한다면 Yamanoeki(志賀高原山の駅)에서 하는것으로 보면 됩니다.
 ![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_4.jpg)
 ![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_5.jpg)
