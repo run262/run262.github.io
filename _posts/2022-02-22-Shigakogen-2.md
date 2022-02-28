@@ -1,91 +1,47 @@
 ---
 layout: post
-title:  "Shigakogen(志賀高原) 2 - Okushigakogen(奥志賀高原)"
+title:  "Shigakogen(志賀高原) 2 - Area Maps"
 categories: [ski]
 tags: [ski, Japan, Nagano, featured]
-image: assets/images/20220222/shigakogen_02_00.jpg
-vimeoId1: 682092508
+image: assets/images/20220222_1/shigakogen_02_00.jpg
 ---
 2022. 2
 
-하쿠바 고류 백컨트리 트립을 만들었습니다. <br> 
-핫포 백컨트리 전문 가이드를 미리 섭외해서 모든 준비가 다 되었습니다만...<br>
-새벽에 가이드에게 전화가 옵니다.<br>
-눈 폭풍으로 취소 하는 것이 좋겠다는 의견입니다.<br>
-일본 스키장 전역에 초속 40 미터가 넘는 눈보라가 치는 곳도 있습니다.<br>
-전날, 핫포에서 2명이 백컨트리 스키를 갔다가 실종되어 한 명만 생환했습니다.<br>
-아쉽지만, 안전이 중요하니 다음 기회를 기대해 봅니다.<br>
+[시가코겐 스키장][shiga1]은 18개의 스키장 연합으로 이루어진 대규모 스키리조트 입니다.
+아래의 지도에서 크게 보면 3구역(왼쪽, 중앙, 오른쪽), 또는 중앙 지역을 세분화 하여 4구역 혹은 5구역으로 나누기도 합니다.
+<del></del>시가코겐 스키장 전체를 볼 수 있는 최신 맵이 없어서 스키장에서 받아온 큰 종이지도를 잘라서 스캔해서 포토샵에서 노가다 짜집기를 했습니다.</del>
+![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_01.jpg)
+처음에 지도를 보니 방향이 많이 헷갈리더군요.
+구글 위성지도를 보면 확실한 방향을 잡을 수 있습니다.
+![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_02.jpg)
+일단 머무는 곳이 지도의 중앙 지역 중 이치노세이니 따로 빼서 4구역으로 표시 했습니다.
+왼쪽의 황색구역이 북동쪽입니다. 가장 안쪽이라 파우더가 좋고 한적합니다.
+크게 Okushigakogen(奥志賀高原)과 고급 호텔체인인 [프린스호텔][prince1]이 베이스로 둔 Yakebitaiyama(焼額山) 지역으로 나눌수 있습니다.
+백컨트리도 많이 하는 지역입니다.
 
-포기는 빨리, 다음 스케줄을 세워서 그동안 가보고 싶었던 [시가고원][shiga1]으로 갑니다.<br>
-18개 정도 스키장이 있는 초대형 연합 스키장입니다.<br>
-대부분이 리프트로 연결이 됩니다.<br>
-하쿠바와 같은 나가노현에 있으니 이동하기에도 좋고, 특히 고지라 온도가 낮아서 눈이 가볍습니다.<br>
+오른쪽 연두색 부분이 남동쪽입니다. 이쪽도 파우더와 트리런이 아주 좋습니다.
+시가고원에서 가장 높은 2307미터의 [Yokoteyama(焼額山)][[yokot] 스키장이 있습니다.
+일본에서 가장 높은 빵집이라는 [Crumpet Cafe][crumpet1]가 있다고해서 꼭 가보고 싶었는데 폭설로 눈사태 경고가 있어서 이틀간 윗쪽 리프트를 운행하지 않았습니다.
+계속 전화를 해서 확인했는데 결국 못갔습니다 ㅠㅠ.
+열린 첫날 파우더는 환상적이었을겁니다.
+바로 옆에 모글코스로 아주 유명한 [Kumanoyu(熊の湯)][kumanoyu1] 스키장이 있습니다.
+작지만 개인적으로 최고였습니다.
+이 지역만 리프트로 연결이 되지 않아 셔틀버스로 이동해야하는 곳입니다.
 
-고류 에스칼플라자에 전날 스키를 보관하였기 때문에 방문하여 스키를 챙겨서 고류버스 정류장으로 이동합니다.<br>
-셔틀 시간이 맞지 않아 하쿠바을 다닌지 10여년 만에 처음으로 택시를 불러봅니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_01.jpg)
+청색 사각형 구역이 이번에 머무는 Ichinose(一の瀬) 지역입니다.
+하늘색 사각형 구역이 시가고원의 모든 셔틀버스들을 환승 할 수 있는 관문인 Yamanoeki(志賀高原山の駅)가 있는 Hazuike(蓮池) 지역입니다.
+교통이 편해서 호텔이 많습니다.
+이 지역을 공식적으로 Shiga Kogen Central Area 라고 합니다.
+![]({{ site.baseurl }}/assets/images/20220222_1/shigakogen_02_2.jpg)
 
-일본의 교통비, 특히 택시비가 극악하여 그동안 타지 않았는데, 이동 거리가 멀지 않으니 탈만 합니다.<br>
-앞으로 눈 속을 뚫고 스키를 들고 이동하는 미련한 짓은 좀 피해야겠습니다.<br>
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_02.jpg)
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_03.jpg)
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_04.jpg)
-버스가 폭설로 5분 정도 늦게 도학합니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_05.jpg)
-하쿠바에서 나가노 도착하는 같은 시간에 같은 장소에서 시가고원행 버스가 출발합니다.<br>
-5분이 늦어서 놓치고 한 시간 뒤의 버스를 타기로 합니다.<br>
-원래는 하쿠바에서 시가까지 이동하는 버스가 있었으나, 코로나로 관광객이 줄자 임시로 운행을 정지하고 있습니다.<br>
+나가노역에서 오는 급행버스와 스키장 내의 셔틀버스는 [나가노덴 버스][naganoden1] 운행합니다.
+셔틀버스는 무료로 운행하고 있습니다.
 
-시가행 버스 시간이 남아서 간단히 소바로 점심을 해결합니다.<br>
-나가노역 안에 낮술의 성지도 있었으나, 도착하면 스키를 타야 하는 관계로 패스합니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_06.jpg)
-도착하니, 인생 눈 폭풍이 환영하네요..
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_07.jpg)
-호텔이 이치노세(一の瀬) 정류소와 이치노세 스키장(一の瀬スキー場)정류소 딱 중간에 있어서 어느 쪽으로 가더라도 200미터 정도 걸어야 합니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_08.jpg)
-다음 글에서 소개 하겠지만 시가고원은 몇 개의 지역으로 나뉘어 집니다.<br>
-검색을 해보니 시가고원은 외식을 할 곳이 많이 없습니다.<br>
-그래도 이치노세(一の瀬) 지역에는 좀 있다는 정보가 있어서 이곳에 머물기로 했습니다.<br>
-이번에도 연휴가 끼어 있어서 호텔이 많이 없습니다.<br>
-그중에서 아주 저렴한 올림픽 호텔을 찾아서 아침 식사만 포함한 플랜으로 예약했습니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_08.jpg)
-그렇지만, 실제로 가보니 외식할 곳이 거의 없었습니다. 특히 차량이 없으면 하쿠바 지역보다 식당을 방문하기가 어렵습니다.<br>
-또한, 눈 폭풍을 맞아 보니, 호텔 밖으로 나가지 않고 안에서 다 해결하는 것이 이해가 됩니다.<br>
-비교한다면, 하쿠바는 평범한 마을의 느낌이고, 시가고원은 깊은 산골과 같습니다.<br>
-호텔은 저러다 망하지 않나 싶을 만큼 많습니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_09.jpg)
-체크인 시간전이라 짐을 맞기고 스키장으로 이동합니다.<br>
-시가고원의 장점 하나는, 거의 모든 호텔이 스키인 스키아웃(ski-in, ski-out) 호텔이라 슬로프 접근성이 편리하다는 것입니다.<br>
-스키를 신고 찻길(눈길?)을 슬로프 삼아 이치노세 스키장을 가봅니다.<br>
-스키장에 도착하니 주차장의 차량들이 몇 시간 사이에 눈 속에 파묻혀 있습니다.<br>
-사진 속의 가운데 희미하게 보이는 곳이 올림픽 호텔입니다.<br>
-오른편 왼편은 이치도세 중앙에리어의 스키장들입니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_10.jpg)
-눈 폭풍이라 아랫쪽 리프트만 가동 중이라 리프트를 통하여 다른 스키장으로 이동하는 것이 거의 다 막혀있습니다.<br>
-시가고원의 또 다른 장점은, 나중에 소개할 야케비타이야마(焼額山)와 쿠마노유(熊の湯) 스키장 지역을 제외하면 곤돌라와 리프트로 이동이 가능하는것 입니다.<br>
-그렇지만 반대로, 눈 폭풍이 오면 셔틀버스가 아니면 이동이 불가능하게 될 수도 있습니다. <br>
-1-2월에는 눈은 좋겠지만 이런 리스크가 있을 수 도 있겠군요.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_11.jpg)
-얇은 고어텍스 하드쉘을 입으니 얼어 죽을것 같습니다. 따뜻한 스키복을 새로 마련해야겠다는 욕심이 생깁니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_12.jpg)
-눈이 너무 많이 오고, 바람이 심해서 파우더고 뭐고 스키를 접고 따뜻한 호텔로 복귀합니다.<br>
-로비에서 하이볼과 함께 비디오나 편집해 봅니다.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_13.jpg)
-저녁이 포함되지 않은 플랜이라 폭풍을 뚫고 몇몇 레스토랑을 찾아 가봅니다만...
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_14.jpg)
-다들 쉬는 날이라 호텔로 복귀.
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_15.jpg)
-처량한 표정으로 메니저에게 예약없이 식사가 가능한지 물어보자 음식이 남았는지 알아본다고 합니다.<br>
-저렴한 호텔의 저렴한 뷔페식이라 음식이 많이 남지 않았다고, 싸게 해 줍니다.<br>
-<del>나름 특템(?)인가요 ㅎ.</del>
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_16.jpg)
-3층 방인데도 창밖이 눈으로 안 보입니다.<br>
-냉장고로 사용.<br>
-내일부터 전투 모드로...
-![]({{ site.baseurl }}/assets/images/20220221/shigakogen_01_17.jpg)
-
-{% include vimeoPlayer.html id=page.vimeoId1 %}
 
 [shiga1]: https://www.shigakogen-ski.or.jp
-
-[shiga2]: https://shigakogen.co.jp/highlight/ichinosefamily
+[shiga2]: http://www.okushiga.jp/skiresort
+[prince1]: https://www.princehotels.com/en/ski/shiga_kogen
+[yokoteyama1]: https://yokoteyama2307.com
+[crumpet1]: https://yokoteyama2307.com/restaurant
+[kumanoyu1]: https://www.kumanoyu.co.jp/lift
+[naganoden1]: https://www.nagadenbus.co.jp
