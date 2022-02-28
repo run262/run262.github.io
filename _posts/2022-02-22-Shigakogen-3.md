@@ -33,7 +33,7 @@ vimeoId1: 682092508
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_08.jpg)
 스키를 타고 내려가면 무릎 위에 파우더가 날려서 몽환적인 분위기를 만들어 냅니다.
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_09.jpg)
-점심을 먹으로 야케비타이야마 스키장으로 넘어가기위해 곤돌라로 정상으로 올라갑니다.
+점심을 먹으러 야케비타이야마 스키장으로 넘어가기위해 곤돌라로 정상으로 올라갑니다.
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_12.jpg)
 리프트를 갈아타야 합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_2/shigakogen_03_10.jpg)
