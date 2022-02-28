@@ -4,7 +4,7 @@ title:  "Shigakogen(志賀高原) 3 - Yakebitaiyama(焼額山))"
 categories: [ski]
 tags: [ski, Japan, Nagano, featured]
 image: assets/images/20220222/shigakogen_02_00.jpg
-vimeoId1: 679953330
+vimeoId1: 682362646
 ---
 2022. 2
 
