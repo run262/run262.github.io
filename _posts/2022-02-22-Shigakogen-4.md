@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shigakogen(志賀高原) 4 - Yakebitaiyama(焼額山))"
+title:  "Shigakogen(志賀高原) 4 - Yakebitaiyama(焼額山)"
 categories: [ski]
 tags: [ski, Japan, Nagano, featured]
 image: assets/images/20220222_3/shigakogen_04_00.jpg
@@ -31,7 +31,7 @@ vimeoId1: 682362646
 생맥주 코너도 있어서 한 잔의 유혹이 있었습니다만...
 스키 중에는 안전을 위해서 절대로 마시지 않습니다.
 ![]({{ site.baseurl }}/assets/images/20220222_3/shigakogen_04_07.jpg)
-오늘은 시가코겐에서 유명하다는 생맥주 전문점에서 저녁을 합니다.
+오늘은 드디어 시가코겐에서 유명하다는 생맥주 전문점에서 저녁을 합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_3/shigakogen_04_08.jpg)
 ![]({{ site.baseurl }}/assets/images/20220222_3/shigakogen_04_09.jpg)
 Teppa Room 이라는 곳입니다.
