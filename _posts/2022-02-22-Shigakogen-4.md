@@ -47,7 +47,8 @@ Teppa Room 이라는 곳입니다.
 ![]({{ site.baseurl }}/assets/images/20220222_3/shigakogen_04_17.jpg)
 호텔로 돌아와서, 3층 창문밖 자연 냉장고를 열고 간식을 꺼내봅니다.<br>
 한 병은 2층으로 빠져버렸습니다. <br>
-아랫집에 선물로 드리기로...
+아랫집에 선물로 드리기로... <br>
+오래전 갓산에서 눈속에 파묻어 놓고 마셨던 술들이 생각나는 밤입니다.
 ![]({{ site.baseurl }}/assets/images/20220222_3/shigakogen_04_18.jpg)
 하이볼 슬러시로 하루를 마무리합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_3/shigakogen_04_19.jpg)
