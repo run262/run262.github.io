@@ -8,6 +8,7 @@ vimeoId1: 682435843
 ---
 2022.2
 
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_01.jpg)
 
 zekkei-project.com
 
