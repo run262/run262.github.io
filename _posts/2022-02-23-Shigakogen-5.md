@@ -29,6 +29,7 @@ vimeoId1: 682435843
 오래전부터 이곳의 명물인 컵에 수프를 담아서 베이크한 [버섯수프(きのこスープ)와 산 모양 빵(山型パン) 세트][yokote3]를 먹어보고 싶었으나 실패했습니다.
 ![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_07.jpg)
 출처: zekkei-project.com<br>
+
 일단 하단의 리프트를 몇 개 타봅니다. 
 ![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_08.jpg)
 당연히 파우더는 최고입니다.<br>
