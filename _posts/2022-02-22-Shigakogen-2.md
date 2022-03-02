@@ -21,7 +21,7 @@ image: assets/images/20220222_1/shigakogen_02_00.jpg
 
 오른쪽 연두색 부분이 남동쪽입니다. 이쪽도 파우더와 트리런이 아주 좋습니다..<br>
 시가고원에서 가장 높은 2307m의 [Yokoteyama(焼額山)][yokoteyama1] 스키장이 있습니다..<br>
-일본에서 가장 높은 빵집이라는 [Yokote summit Hutte (横手山頂ヒュッテ)][yokote1]가 있다고 해서 꼭 가보고 싶었는데 폭설로 눈사태 경고가 있어서 이틀간 윗쪽 리프트를 운행하지 않았습니다..<br>
+[Yokote summit Hutte (横手山頂ヒュッテ)][yokote1]에 일본에서 가장 높은 빵집이라는 [Crumpet Cafe][yokote2]가 있다고 해서 꼭 가보고 싶었는데 폭설로 눈사태 경고가 있어서 이틀간 윗쪽 리프트를 운행하지 않았습니다..<br>
 계속 전화를 해서 확인했는데 결국 못 갔습니다 ㅠㅠ..<br>
 열린 첫날 파우더는 환상적이었을 겁니다..<br>
 바로 옆에 스프링 모글코스로 아주 유명한 [Kumanoyu(熊の湯)][kumanoyu1] 스키장이 있습니다..<br>
@@ -53,5 +53,6 @@ image: assets/images/20220222_1/shigakogen_02_00.jpg
 [prince1]: https://www.princehotels.com/en/ski/shiga_kogen
 [yokoteyama1]: https://yokoteyama2307.com
 [yokote1]: http://www.yokoteyama.com
+[yokote2]: https://www.instagram.com/crumpet_cafe2307/
 [kumanoyu1]: https://www.kumanoyu.co.jp/lift
 [naganoden1]: https://www.nagadenbus.co.jp
