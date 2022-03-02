@@ -35,6 +35,29 @@ vimeoId1: 682435843
 정상부근의 파우더를 상상만 해보고 바로 옆 [Kumanoyu(熊の湯)][shiga2] 스키장으로 이동합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_09.jpg)
 ![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_10.jpg)
+스키를 타고 도로를 가로질러서 이동하다보니, 멀리서 백컨트리를 하는 그룹이 보입니다.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_11.jpg)
+쿠마노유는 작지만 유명한 스키장입니다.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_13.jpg)
+스프링 모글도 아주 좋습니다.
+특히, 출입금지 구역이 없는 스키장 전체가 파우더 트리런 지역입니다.
+이번에 방문한 시가고원의 스키장들 중 당연 최고였습니다.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_12.jpg)
+도착하니 파우더에 덮힌 슬로프가 유혹합니다.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_14.jpg)
+그냥 최고입니다.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_15.jpg)
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_16.jpg)
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_17.jpg)
+가난한 스키어들을 위해서 저렴한 컵라면도 판매합니다.
+대부분 수익을 위해서 이런건 팔지 않습니다.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_18.jpg)
+이제 돌아가야할 시간. 
+버스를 대기하면서 아이들은 고드름 채집.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_19.jpg)
+봄에 꼭 다시 와봐야할 스키장으로 기록합니다.
+![]({{ site.baseurl }}/assets/images/20220222_4/shigakogen_05_20.jpg)
+
 {% include vimeoPlayer.html id=page.vimeoId1 %}
 
 [shiga1]: https://yokoteyama2307.com
