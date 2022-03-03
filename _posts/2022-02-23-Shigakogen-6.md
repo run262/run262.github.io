@@ -28,7 +28,7 @@ vimeoId1: 682460405
 파우더에서 좀 놀다가 이치노세로 향합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_5/shigakogen_06_10.jpg)
 눈이 그치니 이치노세, 야케비타이야마, 오쿠시가코겐 등이 전부 보입니다.<br>
-무사 귀환하여 마지막날을 마무리합니다.
+무사 귀환하여 마지막 날을 마무리합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_5/shigakogen_06_11.jpg)
 
 {% include vimeoPlayer.html id=page.vimeoId1 %}
