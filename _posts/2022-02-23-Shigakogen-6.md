@@ -8,14 +8,14 @@ vimeoId1: 682460405
 ---
 2022.2
 
-쿠마노유에서 이치노세 호텔로 돌아가기 위해서는 일단 셔틀버스로 [Yamanoeki(山の駅)][yamanoeki1]까지 가야합니다.<br>
+쿠마노유에서 이치노세 호텔로 돌아가기 위해서는 일단 셔틀버스로 [Yamanoeki(山の駅)][yamanoeki1]까지 가야 합니다.<br>
 여기서부터는 곤돌라와 리프트로 쉽게 이동이 가능합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_5/shigakogen_06_01.jpg)
 버스에서 내려 곤돌라 승장장으로 향합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_5/shigakogen_06_02.jpg)
 잠시 계곡으로 내려가서 멀리 보이는 곤돌라를 갈아탑니다.
 ![]({{ site.baseurl }}/assets/images/20220222_5/shigakogen_06_03.jpg)
-우리는 이치노세로 가기위해 오른쪽으로 향합니다.
+우리는 이치노세로 가기 위해 오른쪽으로 향합니다.
 ![]({{ site.baseurl }}/assets/images/20220222_5/shigakogen_06_06.jpg)
 멀리 야마노에키가 보입니다.
 ![]({{ site.baseurl }}/assets/images/20220222_5/shigakogen_06_05.jpg)
