@@ -1,42 +1,42 @@
 ---
 layout: post
-title:  "Sapporo Teine 1"
+title:  "Fukushima Inawashiro Snow Paradise 1"
 categories: [ski]
-tags: [ski, Japan, Hokkaido, featured]
-image: assets/images/20220329_1/teine_01_00.jpg
-vimeoId1: 695940156
+tags: [ski, Japan, Fukushima, featured]
+image: assets/images/20221223/inawashiro_00.jpg
+vimeoId1: 784195676
 ---
-2022.3
+2022.12
 
-예전부터 가보고 싶었던 [Sapporo Tenine][teine1] 스키장에 다녀왔습니다.<br>
-호텔에서 검색하니 테이네 역에서 시내버스를 타면 된다고 나왔습니다만...<br>
-도착하니 이틀 전에 영업이 끝났다는 푯말이 있어서 패닉.<br>
-마침 길 건너편에 테이네 버스가 와서 달려가니, 예약제로 운행이 된다고 합니다.<br>
-그래도 친절한 운전기사분이 태워주신다고 합니다.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_01.jpg)
-저희 같은 사람으로 가득차서 보조석까지 만석입니다.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_02.jpg)
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_03.jpg)
-파크로 유명한 곳이라 중앙에 좋은 스노우파크가 있고, 왼편에는 모글 코스도 보입니다.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_05.jpg)
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_04.jpg)
-정상에 사진에서 많이 보던 송신 타워가 보입니다.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_06.jpg)
-정상에 올라가니 삿포로 시내가 그림처럼 펼쳐지는군요.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_07.jpg)
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_10.jpg)
-자연 모글은 얼어서 무시무시...
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_11.jpg)
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_12.jpg)
-스노우파크가 거의 5분에 한 바퀴씩 가능해서 3시간 후에 지쳐서 떠납니다.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_08.jpg)
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_09.jpg)
-오랜만에 오전으로 끝내니 맥주 한 캔 마시고 마무리.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_13.jpg)
-오전만 마치고 가는 스키어도 만석.
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_14.jpg)
-![]({{ site.baseurl }}/assets/images/20220329_1/teine_01_15.jpg)
+일본 스키 친구들이 크리스마스를 같이 보내자고 하여 첫 스킹을 다녀왔습니다.
+[Fukushima Inawashiro][inawashiro1] 스키장에는 처음 가봅니다.
+
+지난 봄 반다이 네코마 스키장에 갔을때  멀리 보이던  스키장이 [Fukushima Inawashiro][inawashiro1] 스키장이었습니다.
+웹회원 가입을 하면 평일은 무료, 주말은 반값이라는 프로모션을 보고 찾아가게 되었습니다.
+
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_01.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_02.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_03.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_04.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_05.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_06.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_07.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_08.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_09.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_10.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_11.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_12.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_13.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_14.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_15.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_16.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_17.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_18.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_19.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_20.jpg)
+![]({{ site.baseurl }}/assets/images/20221223/inawashiro_21.jpg)
 
 {% include vimeoPlayer.html id=page.vimeoId1 %}
 
-[teine1]: https://sapporo-teine.com/snow/lang/en/
+[inawashiro1]: https://www.inawashiro-ski.com
+猪苗代スキー場
