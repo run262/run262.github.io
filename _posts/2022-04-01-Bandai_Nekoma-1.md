@@ -4,7 +4,7 @@ title:  "Bandai Nekoma(猫魔スキー場) 1"
 categories: [ski]
 tags: [ski, Japan, Fukushima, featured]
 image: assets/images/20220401/nekoma_01_00.jpg
-vimeoId1: 695593016
+vimeoId1: 696428304
 ---
 2022.4
 
